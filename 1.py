@@ -1,1 +1,1 @@
-print("Hello, Totoro")
+print(10 > 9)
